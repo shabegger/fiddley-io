@@ -1,0 +1,41 @@
+{
+  "name": "fiddley-io",
+  "version": "0.0.1",
+  "description": "A React-based text/code editor",
+  "main": "index.js",
+  "dependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^6.4.1",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-plugin-transform-es2015-destructuring": "^6.23.0",
+    "babel-plugin-transform-object-assign": "^6.22.0",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "prop-types": "^15.5.8",
+    "react": "^15.5.4"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "jest": "^19.0.2"
+  },
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shabegger/fiddley-io.git"
+  },
+  "keywords": [
+    "React",
+    "text",
+    "code",
+    "editor"
+  ],
+  "author": "Stephen Habegger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shabegger/fiddley-io/issues"
+  },
+  "homepage": "https://github.com/shabegger/fiddley-io#readme"
+}
