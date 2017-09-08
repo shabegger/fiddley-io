@@ -1,5 +1,5 @@
 {
-  "name": "fiddley-io",
+  "name": "@shuffle-games/fiddley-io",
   "version": "0.0.1",
   "description": "A React-based text/code editor",
   "main": "index.js",
